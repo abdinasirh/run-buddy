@@ -56,7 +56,7 @@ header {
   }
 
   header nav ul li a {
-    margin: 0 30px;
+    padding: 10px 15px;
     font-weight: lighter;
     font-size: 1.55vw;
   }
@@ -100,6 +100,7 @@ header {
   display: inline-flex;
   justify-content: center;
   flex-wrap: wrap;
+  align-items: flex-start
 }
 
 .hero-cta {
@@ -108,7 +109,7 @@ header {
   margin: 3.5%;
   color: #fff;
   font-size: 18px;
-  line-height: 1.3;
+  line-height: 1.2;
 }
 .hero-cta h2 {
   font-style: italic;
@@ -181,7 +182,7 @@ header {
 
 
 .section-title {
-  font-size: 55px;
+  font-size: 48px;
   color: #024e76;
   border-bottom: 3px solid;
   padding-bottom: 20px;
@@ -364,3 +365,20 @@ header {
 }
 
 /* REACH OUT STYLES END */
+
+
+
+/* MEDIA QUERY FOR SMALLER DESKTOP SCREENS AND SMALLER */
+@media screen and (max-width: 980px) {
+  
+}
+
+/* MEDIA QUERY FOR TABLETS AND SMALLER */
+@media screen and (max-width: 768px) {
+  
+}
+
+/* MEDIA QUERY FOR MOBILE PHONES AND SMALLER */
+@media screen and (max-width: 575px) {
+  
+}
