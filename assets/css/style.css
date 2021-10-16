@@ -243,7 +243,7 @@ header {
 }
 
 .step:not(:last-child) {
-  border-bottom: 1px solid #39a6b2;
+  border-bottom: 1px solid #169baa;
 }
 .step h3 {
   color: #024e76;
